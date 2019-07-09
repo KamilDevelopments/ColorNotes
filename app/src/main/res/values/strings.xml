@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="notename">Put your note name here</string>
+    <string name="wcolor">Chose color of your note</string>
+    <string name="note">Write your note here</string>
+    <string name="save">Save</string>
+    <string name="toast1">You\'ve reached max note limit(10) </string>
+    <string name="notecolor">This is color of your note:</string>
+    <string name="back">Back</string>
+    <string name="menu">Under construction</string>
+</resources>

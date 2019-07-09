@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="note">Napisz tutaj swoją notatke</string>
+    <string name="notecolor">To jest kolor twojej notatki:</string>
+    <string name="notename">Podaj nazwe swojej notatki</string>
+    <string name="save">Zapisz</string>
+    <string name="toast1">Osiągnąłeś limit notatek(10)</string>
+    <string name="wcolor">Wybierz kolor swojej notatki</string>
+    <string name="back">Wróć</string>
+    <string name="menu">w budowie</string>
+</resources>
